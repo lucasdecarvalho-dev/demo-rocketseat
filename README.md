@@ -1,3 +1,3 @@
 # Demo-rocketseat
 
-- Learning GitHub
+- Learning GitHub with Mayk Brito
